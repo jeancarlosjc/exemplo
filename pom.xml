@@ -61,9 +61,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:https://github.com/kyriosdata/exemplo.git</connection>
-        <developerConnection>scm:git:https://github.com/kyriosdata/exemplo.git</developerConnection>
-        <url>https://github.com/kyriosdata/exemplo</url>
+        <connection>scm:git:https://github.com/jeancarlosjc/exemplo.git</connection>
+        <developerConnection>scm:git:https://github.com/jeancarlosjc/exemplo.git</developerConnection>
+        <url>https://github.com/jeancarlosjc/exemplo</url>
     </scm>
 
     <properties>
