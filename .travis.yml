@@ -3,7 +3,7 @@ sudo: false
 install: true
 addons:
   sonarcloud:
-    organization: "jeancarlosjc-github"
+    organization: "jeancarloscosta"
     token:
       secure: $SONAR_TOKEN
 jdk:
