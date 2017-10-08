@@ -4,8 +4,6 @@ install: true
 addons:
   sonarcloud:
     organization: "jeancarlosjc-github"
-    token:
-      secure: "6e83a14c1d0ccd3c00db85984e24934c03655bbd"
 jdk:
   - oraclejdk8
 cache:
